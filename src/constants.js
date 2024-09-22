@@ -1,0 +1,7 @@
+export const HOME_PATH = '/'
+export const NOT_FOUND_PATH = '*'
+export const PRODUCT_PATH = '/products/'
+export const PRODUCTS_PATH = '/products'
+export const PRODUCTS_SHOW_PATH = '/product/:id'
+export const STRING = 'string'
+export const USER_PRODUCTS_PATH = '/users/1/products'

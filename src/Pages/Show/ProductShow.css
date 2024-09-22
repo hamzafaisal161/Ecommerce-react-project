@@ -1,0 +1,21 @@
+.comment-form {
+  margin-top: 100px;
+}
+.comment-pane {
+  margin-top: 50px;
+}
+.comment-show {
+  margin-bottom: 80px;
+  width: 100%;
+}
+.card-w {
+  width: 100%;
+}
+.desp-t{
+  font-weight: 400;
+  margin-top: -16px;
+}
+.price-t{
+  margin-top: -20px;
+  font-weight: 550;
+}

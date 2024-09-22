@@ -1,0 +1,22 @@
+.product-img {
+  height: 180px;
+  width: 286px;
+}
+
+.heading {
+  margin-left: 7%;
+  padding-bottom: 5px;
+  margin-top: 25px;
+}
+
+.card-space {
+  margin-bottom: 5%;
+}
+.con-w {
+  width: 90%;
+  margin: auto;
+}
+.text-w {
+  font-weight: 450;
+  padding-bottom: 10px;
+}
